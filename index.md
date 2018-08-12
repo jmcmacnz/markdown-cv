@@ -23,9 +23,9 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
->*University of Auckland 
->**2010 - 2015***
-**Bachelor of Engineering (Mechanical)**
+>*University of Auckland  
+**2010 - 2015***  
+**Bachelor of Engineering (Mechanical)**  
 **Bachelor of Arts (Philosophy/French) Conjoint** 
 
 
