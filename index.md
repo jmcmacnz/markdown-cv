@@ -21,11 +21,21 @@ Highlights:
 
 ### Skills
 
-Critical Thinking
-Problem Solving
-Communication
-Team Work
-Reliability
+* **Critical Thinking**
+	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+
+
+* **Problem Solving**
+	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+
+* **Communication**
+	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+
+* **Team Work**
+	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+
+* **Reliability**
+	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
 
 ## Education
 
