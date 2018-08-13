@@ -21,21 +21,20 @@ Highlights:
 
 ### Skills
 
-* **Critical Thinking**
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+- **Critical Thinking**
+  Taking a balanced approach when weighing up priorities. Being able to distill complex ideas down to their essential components. The ability to critically analyse a given set of ?variables? and provide reasoning for any decisions made as a result.
 
+- **Problem Solving**
+  Assessing a situation and defining requirements. Researching any knowledge gaps, including consulting relevant subject matter experts. Knowing how to balance the ?efficacy? of solution with time constraints and relative priority.
 
-* **Problem Solving**
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+- **Communication**
+  Building relationships. Keeping stakeholders updated. Soliciting information.
 
-* **Communication**
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+- **Team Work**
+  ///////////////////////////
 
-* **Team Work**
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
-
-* **Reliability**
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+- **Reliability**
+  ///////////////////////////
 
 ## Education
 
@@ -47,11 +46,11 @@ Highlights:
 
 ## Interests
 
-* Music production and DJ'ing  
-* Emerging technologies (i.e. web, blockchain, AI)  
-* Participating in a creative collective - Lowtide  
-* Foreign languages and cultures  
-* Muay Thai (Kickboxing)
+- Music production and DJ'ing
+- Emerging technologies (i.e. web, blockchain, AI)
+- Participating in a creative collective - Lowtide
+- Foreign languages and cultures
+- Muay Thai (Kickboxing)
 
 <!-- ### Footer
 
