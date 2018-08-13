@@ -37,11 +37,11 @@ Reliability
 
 ## Interests
 
-Music production and DJ'ing
-Emerging technologies (i.e. web, blockchain, AI)
-Participating in a creative collective - Lowtide
-Foreign languages and cultures
-Muay Thai (Kickboxing)
+* Music production and DJ'ing  
+* Emerging technologies (i.e. web, blockchain, AI)  
+* Participating in a creative collective - Lowtide  
+* Foreign languages and cultures  
+* Muay Thai (Kickboxing)
 
 <!-- ### Footer
 
