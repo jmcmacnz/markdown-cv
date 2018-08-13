@@ -2,37 +2,47 @@
 layout: cv
 title: James' CV
 ---
+
 # James McGregor-Macdonald
 
 > [jmcmacnz@gmail.com](mailto:jmcmacnz@gmail.com)
 > 0211011249
 
+---
 
-## Currently
+## Statement
 
 Travelling in Mexico, learning Spanish and getting to know the culture. Arriving back in NZ late August.
 
 ### Experience
 
-Text here
+**Fisher & Paykel Healthcare** _Product Development Engineer_ **Feb-2016 to Mar-2018**
+Highlights:
 
 ### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Critical Thinking
+Problem Solving
+Communication
+Team Work
+Reliability
 
 ## Education
 
->*University of Auckland*  
-**2010 - 2015**
+> _University of Auckland_  
+> **2010 - 2015**
 
-**Bachelor of Engineering (Mechanical)**  
-**Bachelor of Arts (Philosophy/French) Conjoint** 
+**Bachelor of Engineering (Mechanical) +**  
+**Bachelor of Arts (Philosophy/French) Conjoint**
 
+## Interests
 
+Music production and DJ'ing
+Emerging technologies (i.e. web, blockchain, AI)
+Participating in a creative collective - Lowtide
+Foreign languages and cultures
+Muay Thai (Kickboxing)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Aug 2018 -->
