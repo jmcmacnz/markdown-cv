@@ -12,15 +12,15 @@ title: James' CV
 
 ## Statement
 
-Travelling in Mexico, learning Spanish and getting to know the culture. Arriving back in NZ late August.
+After completing two years in product development at F&P Healthcare, I decided to leave my role on good terms to travel and pursue music and tech-related projects for the remainder of the year. Working as an engineer has helped me to develop a strong set of problem solving and analytical skills, while studying philosophy and French has strengthened my capacity to think critically and communicate effectively. This skillset enables me to adapt to a variety of working environments. I am seeking a role in a technological field that can provide me with challenging and engaging work and the opportunity to apply myself in a professional environment.
 
 ## Experience
 
-**Fisher & Paykel Healthcare** _Product Development Engineer_ **Feb-2016 to Mar-2018**
+### **Fisher & Paykel Healthcare** _Product Development Engineer_ **Feb-2016 to Mar-2018**
 
-Highlights:
+#### Highlights:
 
-- **Product Owner - Initial Upgrade of Environmental Chamber:** Work was planned to increase the chamber's testing capacity. I was tasked with overseeing the upgrade, with minimal disruption to ongoing test requirements. I liaised with the relevant stakeholders to assess needs, expectations and required resources, using a visible GANTT chart to keep track of the estimated timeline. As unforeseen obstacles emerged, such as part supply delays, I made sure all stakeholders were informed and understood the current status of the project. _At the completion of the project, all parties were satisfied with both the outcome and having been well informed throughout._
+- **Product Owner - Initial Upgrade of Environmental Chamber:** Work was planned to increase the chamber's testing capacity. I was tasked with overseeing the upgrade, with minimal disruption to ongoing test requirements. I liaised with the relevant stakeholders to assess needs, expectations and required resources, using a visible GANTT chart to keep track of the estimated timeline. As unforeseen obstacles emerged, such as part supply delays, I made sure all stakeholders were informed and understood the current status of the project. _At the completion of the project, all parties were satisfied both with the outcome and having been well informed throughout._
 
 * **Verification Testing:** The product must be thoroughly tested to prove it complies with international standards. I was tasked with carrying out a round of this testing. Each completed test was originally analysed using MS Excel, which was cumbersome and time consuming. I wrote a test script in MATLAB to automate this data analysis, reducing the total analysis time from more than a week to less than an hour. _As a result, not only was the testing completed successfully, but the process was streamlined and enabled us to be agile by identifying failed tests quickly and retesting them._
 
