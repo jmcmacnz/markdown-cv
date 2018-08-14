@@ -27,16 +27,16 @@ Highlights:
 ## Skills
 
 - **Critical Thinking**
-  Taking a balanced approach when weighing up priorities. Being able to distill complex ideas down to their essential components. The ability to critically analyse a given set of ?variables? and provide reasoning for any decisions made as a result.
+  The ability to make well-reasoned decisions based on logical analysis, and distill complex ideas down to their essential components in a clear and concise way.
 
 - **Problem Solving**
-  Assessing a situation and defining requirements. Researching any knowledge gaps, including consulting relevant subject matter experts. Knowing how to balance the ?efficacy? of solution with time constraints and relative priority.
+  Resolving complex issues in a systematic way to ensure results meet the original requirements while balancing priority with time constraints.
 
 - **Communication**
   Building relationships. Keeping stakeholders updated. Soliciting information.
 
 - **Reliability**
-  ///////////////////////////
+  Researching any knowledge gaps, including consulting relevant subject matter experts.
 
 ## Education
 
@@ -45,6 +45,12 @@ Highlights:
 
 **Bachelor of Engineering (Mechanical) +**  
 **Bachelor of Arts (Philosophy/French) Conjoint**
+
+## Languages
+
+**English** - Fluent  
+**French** - Conversational  
+**Spanish** - Conversational
 
 ## Interests
 
