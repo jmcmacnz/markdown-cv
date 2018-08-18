@@ -12,7 +12,7 @@ title: James' CV
 
 ## Statement
 
-After completing two years in product development at F&P Healthcare, I decided to leave my role on good terms to travel and pursue music and tech-related projects for the remainder of the year. Having worked as an engineer has helped me to develop a strong set of problem solving and analytical skills, while studying philosophy and French has strengthened my capacity to think critically and communicate effectively. This skillset enables me to adapt to a variety of working environments. I am seeking a role in a technological field that can provide me with challenging and engaging work and the opportunity to grow while applying myself in a professional environment.
+After completing just over two years in product development at Fisher & Paykel Healthcare (FPH), I decided to amicably leave my role in order to travel and pursue music and tech-related projects for the remainder of the year. Studying and working as an engineer has helped me to develop a strong set of problem solving and analytical skills, while studying philosophy and French has strengthened my capacity to think critically and communicate effectively. This skillset enables me to adapt to a variety of working environments. I am seeking a role in a technological field that can provide me with challenging and engaging work and the opportunity to grow while applying myself in a professional environment.
 
 ## Experience
 
@@ -20,7 +20,7 @@ After completing two years in product development at F&P Healthcare, I decided t
 
 #### Highlights:
 
-- **Product Owner - Initial Upgrade of Environmental Chamber:** Work was planned to increase the chamber's testing capacity. I was tasked with overseeing the upgrade, ensuring minimal disruption to ongoing test requirements. I liaised with the relevant stakeholders to assess needs, expectations and required resources, using a visible GANTT chart to keep track of the estimated timeline. As unforeseen obstacles emerged, such as part supply delays, I made sure all stakeholders were kept informed and understood the current status of the project. _At the completion of the project, all parties were satisfied with both the outcome and having been involved in the process throughout._
+- **Product Owner - Initial Upgrade of Environmental Chamber:** Work was planned to increase the chamber's testing capacity. I was tasked with overseeing the upgrade, ensuring minimal disruption to ongoing test requirements. I liaised with the relevant stakeholders to assess needs, expectations and required resources, using a visible GANTT chart to keep track of the estimated timeline. As unforeseen obstacles emerged such as part supply delays, I made sure all stakeholders were kept informed and understood the current status of the project, and that any newly available time in the test chamber could be utilised. _At the completion of the project, all parties were satisfied with both the outcome and having been involved in the process throughout._
 
 * **Verification Testing:** Before the product can be sold, it must be thoroughly tested to prove it complies with international medical device standards. I was tasked with carrying out a round of this testing. Each completed test was previously analysed using MS Excel, which was cumbersome and time consuming. I wrote a test script in MATLAB to automate this data analysis, reducing the total analysis time from more than a week to less than an hour. _As a result, not only was the testing completed successfully, but the process was streamlined and enabled us to be agile by identifying failed tests quickly and retesting them._
 
@@ -35,11 +35,10 @@ After completing two years in product development at F&P Healthcare, I decided t
   Resolving complex issues in a systematic way to ensure results meet the original requirements, while balancing priority with time constraints and available resources.
 
 - **Communication**
-  
-  Building relationships. Keeping stakeholders updated. Soliciting information.
+All responsibilities at FPH necessitated relationship building and stakeholder management, both requiring strong communiction skills by understanding the needs of others with empathy and conveying complex information in a way that's easy to understand. Additionally, working in teams at FPH as well as in group projects at university has developed the ability to communicate within a team environment, such as managing conflicts and ambiguity.
 
 - **Reliability**
-  Researching any knowledge gaps, including consulting relevant subject matter experts.
+Certain projects at FPH (e.g. the competitor product analysis) required me to work independently. This involved seeking out the knowledge and advice of relevant subject-matter-experts, and effectively researching any knowledge gaps. From this I have developed a sense of perseverance when faced with complicated or ambiguous situations, and can be relied on to ensure a task or project is finished.
 
 ## Education
 
