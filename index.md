@@ -12,11 +12,12 @@ title: James' CV
 
 ## Statement
 
-After completing just over two years in product development at Fisher & Paykel Healthcare (FPH), I decided to amicably leave my role in order to travel and pursue music and tech-related projects for the remainder of the year. Studying and working as an engineer has helped me to develop a strong set of problem solving and analytical skills, while studying philosophy and French has strengthened my capacity to think critically and communicate effectively. This skillset enables me to adapt to a variety of working environments. I am seeking a role in a technological field that can provide me with challenging and engaging work and the opportunity to grow while applying myself in a professional environment.
+After completing two years in product development at Fisher & Paykel Healthcare (FPH), I decided to amicably leave my role in order to travel and pursue music and tech-related projects for the remainder of 2018. Studying and working as an engineer has helped me to develop a strong set of problem solving and analytical skills, while studying philosophy and French has strengthened my capacity to think critically and communicate effectively. This skillset enables me to adapt to a variety of working environments. I am seeking a role in a technological field that can provide me with challenging and engaging work and the opportunity to grow while applying myself in a professional environment.
 
 ## Experience
 
-### **Fisher & Paykel Healthcare** _Product Development Engineer_ **Feb-2016 to Mar-2018**
+### **Fisher & Paykel Healthcare**  
+_Product Development Engineer_ **Feb-2016 to Mar-2018**
 
 #### Highlights:
 
