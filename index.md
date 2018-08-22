@@ -16,8 +16,8 @@ After completing two years in product development at Fisher & Paykel Healthcare 
 
 ## Experience
 
-### **Fisher & Paykel Healthcare**  
-_Product Development Engineer_ **Feb-2016 to Mar-2018**
+### **Product Development Engineer**  
+**Fisher & Paykel Healthcare** _Feb-2016 to Mar-2018_
 
 #### Highlights:
 
@@ -27,8 +27,8 @@ _Product Development Engineer_ **Feb-2016 to Mar-2018**
 
 * **Competitor Product Analysis:** A potentially patent-infringing competing product was showing an increased presence in certain markets, and senior management wanted to understand its performance compared to FPH's own product. I was tasked with carrying out the performance testing and comparative assessment. As I hadn't personally done these tests before, I sought the advice of engineers with experience in that area to ensure the testing was carried out accurately and efficiently. Throughout the process I was in regular contact with senior management to present test results and for feedback on how best to document the results for future reference. _When the project wrapped up, senior management felt well informed as to the performance of the competing product and were in a better position to make strategic decisions as a result._
 
-### **Rakon**
-_Engineering Intern_ **Nov-2014 to Aug-2015**
+### **Engineering Intern**  
+**Rakon** _Nov-2014 to Aug-2015_
 
 ## Skills
 
