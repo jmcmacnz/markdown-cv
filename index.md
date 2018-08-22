@@ -25,7 +25,10 @@ _Product Development Engineer_ **Feb-2016 to Mar-2018**
 
 * **Verification Testing:** Before the product can be sold, it must be thoroughly tested to prove it complies with international medical device standards. I was tasked with carrying out a round of this testing. Each completed test was previously analysed using MS Excel, which was cumbersome and time consuming. I wrote a test script in MATLAB to automate this data analysis, reducing the total analysis time from more than a week to less than an hour. _As a result, not only was the testing completed successfully with significant time savings, but the process was streamlined and enabled us to be agile going forward by identifying failed tests quickly and retesting them._
 
-* **Competitor Product Analysis:** 
+* **Competitor Product Analysis:** A potentially patent-infringing competing product was showing an increased presence in certain markets, and senior management wanted to understand its performance compared to FPH's own product. I was tasked with carrying out the performance testing and comparative assessment. As I hadn't personally done these tests before, I sought the advice of engineers with experience in that area to ensure the testing was carried out accurately and efficiently. Throughout the process I was in regular contact with senior management to present test results and for feedback on how best to document the results for future reference. _When the project wrapped up, senior management felt well informed as to the performance of the competing product and were in a better position to make strategic decisions as a result._
+
+### **Rakon**
+_Engineering Intern_ **Nov-2014 to Aug-2015**
 
 ## Skills
 
